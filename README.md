@@ -24,9 +24,7 @@ This project presents an interactive dashboard built in **Power BI**, using data
 - **Microsoft Excel** (as raw data source)
 - **GitHub** for version control and portfolio showcase
 
-## 🖼 Dashboard Screenshot
 
-![Dashboard Screenshot](dashboard-screenshot.png)
 
 ## 📁 File Structure
 PowerBI-SurveyDashboard/
